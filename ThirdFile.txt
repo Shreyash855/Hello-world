@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file has been direct added from the git hub website.
+=======
+The has been direct added from the git hub website.
+>>>>>>> e51cec4cd307a34a433a5e11c7344ef10d81832a
