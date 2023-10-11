@@ -3,3 +3,10 @@ This is Second file for push testing to remote repo
 
 changes from linux machine
 bugs fixed. Thank you.
+
+--------------------------------------------------
+
+Hi Shreyash, Good morning 
+Congratulations for the changes been made from linux environment that has been reflected ion your github account.
+
+Stay tuned and happy coding:)
